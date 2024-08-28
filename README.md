@@ -3,14 +3,7 @@
 Qiyuan Guan, Shumin Fan, Jiyu Jin*, Guiyue Jin*, Tianyu Song, Pengpeng Li, Xiang Chen, and Kui Jiang
 
 
-
-
-## Network Architecture
-![image](![Figure7](https://github.com/user-attachments/assets/6d6cb30b-18ad-4342-978e-27ac33237844)
-)
-
-
-## Dataset
+## 🔥 Dataset
 
 ```tex
 BDD-NightRain
@@ -34,7 +27,12 @@ BDD-NightRain
     |    |--test       (100 json)
 ```
 
-You can download the BDD-NightRain dataset by [Baidu Cloud](https://pan.baidu.com/s/1eZgW8Ziu4mr9d9__VaAeog)(code：bddn)
+You can download the BDD-NightRain dataset by [Baidu Cloud](https://pan.baidu.com/s/1FWGPa4f9PMj1rsHrnNd7ZQ )(code：bddn)
+
+
+## Network Architecture
+![image](![Figure7](https://github.com/user-attachments/assets/06c2d0c1-f33c-4f48-9925-8051e8bb1886))
+
 
 
 ## Training
