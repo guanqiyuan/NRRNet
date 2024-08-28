@@ -27,8 +27,7 @@ BDD-NightRain
     |    |--test       (100 json)
 ```
 
-You can download the BDD-NightRain dataset by [Baidu Cloud](https://pan.baidu.com/s/1WC4RtwjJ8pR9MVkkwjVSiA)(code：bddn)
-
+You can download the BDD-NightRain dataset by [Baidu Cloud](https://pan.baidu.com/s/1ZxcJvpx5Dz5AsdNqWgMqMw)(code：bddn)
 
 
 ## ✨ Network Architecture
