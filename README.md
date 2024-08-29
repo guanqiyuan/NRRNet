@@ -5,6 +5,12 @@ Qiyuan Guan, Shumin Fan, Jiyu Jin*, Guiyue Jin*, Tianyu Song, Pengpeng Li, Xiang
 
 ## 🔥 Dataset
 
+### Dataset pipeline
+![image](https://github.com/guanqiyuan/NRRNet/blob/main/figs/pipeline.png)
+
+
+### Dataset structure
+
 ```tex
 BDD-NightRain
     |
@@ -27,12 +33,13 @@ BDD-NightRain
     |    |--test       (100 json)
 ```
 
+### ⬇️ Download
 You can download the BDD-NightRain dataset by [Baidu Cloud](https://pan.baidu.com/s/12nypp2MpLGN-1SsL-eNURw)(code：bddn).
 
 
 
 ## ✨ Network Architecture
-![image](![Figure7](https://github.com/user-attachments/assets/06c2d0c1-f33c-4f48-9925-8051e8bb1886))
+![image](https://github.com/guanqiyuan/NRRNet/blob/main/figs/network.png)
 
 
 
@@ -41,4 +48,4 @@ The code will be released soon.
 
 
 ## Acknowledgement
-Thanks to the authors of BDD100K for their contributions, this is their github repository [BDD100K](https://github.com/bdd100k/bdd100k).
+This dataset is based on [BDD100K](https://github.com/bdd100k/bdd100k). Thanks for their greate work!
