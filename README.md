@@ -39,7 +39,7 @@ You can download the BDD-NightRain dataset by [Baidu Cloud](https://pan.baidu.co
 
 
 ## ✨ Network Architecture
-![image]()
+![image](https://github.com/guanqiyuan/NRRNet/blob/main/figs/network.png)
 
 
 
