@@ -3,7 +3,7 @@
 Qiyuan Guan, Shumin Fan, Jiyu Jin*, Guiyue Jin*, Tianyu Song, Pengpeng Li, Xiang Chen, and Kui Jiang
 
 
-## 🔥 Dataset
+## **🔥 Dataset**
 
 ### Dataset pipeline
 ![image](https://github.com/guanqiyuan/NRRNet/blob/main/figs/pipeline.png)
@@ -38,7 +38,7 @@ You can download the BDD-NightRain dataset by [Baidu Cloud](https://pan.baidu.co
 
 
 
-## ✨ Network Architecture
+## **✨ Network Architecture**
 ![image](https://github.com/guanqiyuan/NRRNet/blob/main/figs/network.png)
 
 
