@@ -6,7 +6,7 @@ Qiyuan Guan, Shumin Fan, Jiyu Jin*, Guiyue Jin*, Tianyu Song, Pengpeng Li, Xiang
 ## **🔥 Dataset**
 
 ### Dataset pipeline
-![image](https://github.com/guanqiyuan/NRRNet/blob/main/figs/pipeline.png)
+![image]()
 
 
 ### Dataset structure
