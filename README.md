@@ -2,6 +2,10 @@
 
 Qiyuan Guan, Shumin Fan, Jiyu Jin*, Guiyue Jin*, Tianyu Song, Pengpeng Li, Xiang Chen, and Kui Jiang
 
+><font size=5>**Abstract:**</font>
+>*Compared to removing rain from daytime images, nighttime image deraining poses significant challenges due to the inherent complexities of nighttime scenes and the lack of datasets that accurately represent the effects of lighting on rain streaks. In this paper, we contribute a high-quality nighttime image deraining dataset, BDD-NightRain, consisting of 5,600 synthetic nighttime rain images with higher realism and harmony for driving scenes. Furthermore, we develop an efficient two-stage Nighttime Rain Removal Network (NRRNet) that leverages color space transformation. Specifically, the coarse processing stage focuses on rain streak removal in the Y channel, where luminance contrast is most pronounced under nighttime rain conditions, while the fine processing stage further refines the deraining results of the previous stage. In addition, we introduce coordinate-based implicit neural representations between these two stages to guide the model's focus toward areas with appropriate illumination. Extensive experiments show that our method outperforms others in removing rain streaks from nighttime scenes, with potential applications in nighttime object detection.  The code and dataset will be available at https://github.com/guanqiyuan/NRRNet.*
+---
+
 
 ## **🔥 Dataset**
 
@@ -45,6 +49,15 @@ You can download the BDD-NightRain dataset by [Baidu Cloud](https://pan.baidu.co
 
 ## Training
 The code will be released soon.
+
+
+## Testing
+The code will be released soon.
+
+
+
+
+
 
 
 ## Acknowledgement
