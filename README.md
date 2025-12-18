@@ -17,6 +17,7 @@ Qiyuan Guan, Shumin Fan, Jiyu Jin, Guiyue Jin, Tianyu Song, Pengpeng Li, Xiang C
 ![image](https://github.com/guanqiyuan/NRRNet/blob/main/figs/pipeline.png)
 -->
 
+<!--
 ### Dataset structure
 
 ```tex
@@ -40,6 +41,8 @@ BDD-NightRain
     |    |--validation (500 json)
     |    |--test       (100 json)
 ```
+-->
+
 
 ### ⬇️ Download
 You can download the BDD-NightRain dataset by [Baidu Cloud](https://pan.baidu.com/s/12nypp2MpLGN-1SsL-eNURw)(code：bddn).
